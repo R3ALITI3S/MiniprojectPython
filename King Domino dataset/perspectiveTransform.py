@@ -2,6 +2,8 @@ import os
 import glob
 import cv2
 import numpy as np
+from numpy.lib.recfunctions import recursive_fill_fields
+
 
 class RoiHandler:
     def __init__(self):
