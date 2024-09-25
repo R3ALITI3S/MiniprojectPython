@@ -146,9 +146,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nield\Desktop\Miniproject" />
+      <recent name="C:\Users\nield\Desktop\Miniproject\King Domino dataset\Fullgameareas" />
+      <recent name="C:\Users\nield\Desktop\Miniproject\King Domino dataset\Cropped and perspective corrected boards" />
       <recent name="C:\Users\nield\Desktop\Miniproject\King Domino dataset" />
       <recent name="C:\Users\nield\Desktop\Miniproject\King Domino dataset\Full game areas" />
-      <recent name="C:\Users\nield\Desktop\Miniproject" />
     </key>
   </component>
   <component name="RunManager" selected="Python.perspectiveTransform">
@@ -189,7 +191,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\nield\Desktop\Miniproject\King Domino dataset\perspectiveTransform.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nield\Desktop\Miniproject\perspectiveTransform.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
